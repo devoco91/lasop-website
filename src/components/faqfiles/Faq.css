@@ -1,0 +1,22 @@
+.faq_body{
+    background: #f1f1f1;
+    min-height: 100vh;
+}
+
+.faq_container{
+    padding-top: 40px;
+}
+
+.faq_container h6{
+    color: #11A3E3;
+    padding-bottom: 10px
+}
+
+.faq_container h4{
+    padding-bottom: 10px;
+}
+
+.faq-text h6{
+    cursor: pointer;
+    padding-top: 17px;
+}

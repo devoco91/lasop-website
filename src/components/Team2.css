@@ -1,0 +1,50 @@
+
+.all{
+    background-color: #f1f1f1;
+    height: 1500px;
+}
+
+.faint{
+    font-weight: lighter;
+    /* font-size: 40px; */
+    font-size: 12px;
+}
+
+
+.bold{
+    font-weight: bolder;
+}
+.man{
+    width: 300px;
+    height: 300px;
+}
+
+.header5{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+
+
+@media (max-width:500px){
+    .all{
+        height: 3200px;
+        margin-bottom: -49px;
+    }
+
+
+    
+    
+}
+
+@media (max-width:700px){
+    .all{
+        height: 3200px;
+        margin-bottom: -49px;
+    }
+
+
+    
+    
+}
